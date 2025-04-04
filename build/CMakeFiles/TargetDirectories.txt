@@ -1,0 +1,4 @@
+/home/kali/CS2-Calculator-MalakSatour/build/CMakeFiles/calculator.dir
+/home/kali/CS2-Calculator-MalakSatour/build/CMakeFiles/test.dir
+/home/kali/CS2-Calculator-MalakSatour/build/CMakeFiles/edit_cache.dir
+/home/kali/CS2-Calculator-MalakSatour/build/CMakeFiles/rebuild_cache.dir
